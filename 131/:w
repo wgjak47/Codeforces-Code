@@ -1,0 +1,15 @@
+#include<cstdio>
+#include<cstring>
+#include<cstdlib>
+main()
+{
+	int M,N;
+	int reg=0;
+	scanf("%d%d",&N,&M);
+	for (int i=0;i<=N;i++)
+	for (int j=0;j<=N;j++)
+		if (i*i+j==N && j*j+i==M)
+			reg++;
+	printf("%d\n",reg);
+	return 0;
+}

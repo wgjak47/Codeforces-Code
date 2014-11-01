@@ -1,0 +1,40 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+G	D.cpp	/^vector<int> G[100010];$/;"	v
+LL	C.cpp	12;"	d	file:
+LLD	A.cpp	12;"	d	file:
+LLD	B.cpp	12;"	d	file:
+LLD	D.cpp	12;"	d	file:
+LLD	E.cpp	12;"	d	file:
+dfs_d	D.cpp	/^int dfs_d(int u,int fa)$/;"	f	signature:(int u,int fa)
+dfs_u	D.cpp	/^int dfs_u(int u,int fa)$/;"	f	signature:(int u,int fa)
+down	D.cpp	/^int p[100010],up[100010],down[100010];$/;"	v
+gcd	B.cpp	/^long long gcd(long long a,long long b)$/;"	f	signature:(long long a,long long b)
+main	A.cpp	/^main()$/;"	f	signature:()
+main	B.cpp	/^main()$/;"	f	signature:()
+main	C.cpp	/^main()$/;"	f	signature:()
+main	D.cpp	/^main()$/;"	f	signature:()
+main	E.cpp	/^main()$/;"	f	signature:()
+mf	A.cpp	10;"	d	file:
+mf	B.cpp	10;"	d	file:
+mf	C.cpp	10;"	d	file:
+mf	D.cpp	10;"	d	file:
+mf	E.cpp	10;"	d	file:
+mod	C.cpp	/^const LL mod=1e9+9;$/;"	v
+mt	A.cpp	11;"	d	file:
+mt	B.cpp	11;"	d	file:
+mt	C.cpp	11;"	d	file:
+mt	D.cpp	11;"	d	file:
+mt	E.cpp	11;"	d	file:
+p	D.cpp	/^int p[100010],up[100010],down[100010];$/;"	v
+pf	A.cpp	9;"	d	file:
+pf	B.cpp	9;"	d	file:
+pf	C.cpp	9;"	d	file:
+pf	D.cpp	9;"	d	file:
+pf	E.cpp	9;"	d	file:
+power	C.cpp	/^LL power(LL z)$/;"	f	signature:(LL z)
+up	D.cpp	/^int p[100010],up[100010],down[100010];$/;"	v
